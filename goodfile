@@ -1,0 +1,23 @@
+
+---
+
+# 📌 4️⃣ goodfile Content (With Comments on Each Line)
+
+Open `goodfile` and replace content with:
+
+```bash
+# This file demonstrates a simple text file tracked using Git
+
+# This line represents content added after branching
+This is the goodfile created on my1stbranch
+
+# This line indicates practice of git add command
+File was added using: git add goodfile
+
+# This line indicates practice of git commit command
+Committed using: git commit -m "added goodfile"
+
+# This line indicates branch-based development
+Created inside branch: my1stbranch
+
+# End of demonstration content
